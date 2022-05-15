@@ -138,6 +138,7 @@ class Detector:
 
         if show and cv2.waitKey(1) & 0xFF == ord("q"):
             cv2.destroyAllWindows()
+            sys.exit(0)
 
 
 def pose_estimate(
