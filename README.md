@@ -1,4 +1,4 @@
-# <div align="center">Simple Object Tracking</div>
+# <div align="center">Faster Pose Estimation</div>
 
 <div align="center">
 <p>WHOLE BODY, BODY AND HAND POSE ESTIMATION with YOLOv5 and MMDetection</p>
