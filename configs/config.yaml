@@ -1,0 +1,14 @@
+DETMODEL:
+  CHECKPOINT            : weights/hands.pt
+  HALF                  : False
+  CLASSES               : 0
+  IMGSZ                 : 1280
+  CONF_THRESH           : 0.5
+  IOU_THRESH            : 0.5
+
+POSEMODEL:
+  CONFIG                : configs/hand/2d_kpt_sview_rgb_img/topdown_heatmap/onehand10k/res50_onehand10k_256x256.py
+  # CONFIG                : configs/body/2d_kpt_sview_rgb_img/topdown_heatmap/coco/hrnet_w48_coco_384x288.py
+  CHECKPOINT            : https://download.openmmlab.com/mmpose/top_down/resnet/res50_onehand10k_256x256-e67998f6_20200813.pth
+  # CHECKPOINT            : https://download.openmmlab.com/mmpose/top_down/hrnet/hrnet_w48_coco_384x288-314c8528_20200708.pth
+
