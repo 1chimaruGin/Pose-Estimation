@@ -2,10 +2,15 @@
 
 <div align="center">
 <p>WHOLE BODY, BODY AND HAND POSE ESTIMATION with YOLOv5 and MMDetection</p>
+
+[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/1chimaruGin/Pose-Estimation.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/1chimaruGin/Pose-Estimation/context:python)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/1chimaruGin/Pose-Estimation.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/1chimaruGin/Pose-Estimation/alerts/)
+
 <p>
 <img src="images/girl.gif" width="270"/> <img src="images/gin.gif" width="270"/> 
 </p>
 </div>
+
 
 ## Requirements
 
